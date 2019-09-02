@@ -4,7 +4,7 @@ The goal of this repo is to curate a list of software educational resources.
 Disclaimer: I haven't tried all of these.
 
 If you want to contribute, you might want to:
-- Report a bug: Let me know if you see something wrong (bad url, wrong tag, etc).
+- [Report a bug](https://github.com/ourbit/educational-resources/issues/new): Let me know if you see something wrong (bad url, wrong tag, etc).
 - PR: Feel free to add content and send a Pull Request. I will appreciate it and list you as a contributor
 
 ## Resources
