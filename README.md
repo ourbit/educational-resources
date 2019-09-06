@@ -37,6 +37,8 @@ If you want to contribute, you might want to:
 
 - NextU: https://www.nextu.com/  [Online, Sync]
 
+- Khan Academy: https://www.khanacademy.org/ (Not only software) [Online, Sync]
+
 - Digital House: https://www.digitalhouse.com/  [Offline, Sync]
 
 - Dev Bootcamp(s): https://en.wikipedia.org/wiki/Dev_Bootcamp  [Offline, Sync]
@@ -45,10 +47,11 @@ If you want to contribute, you might want to:
 
 - Ada: https://ada.com.ar/  [Offline, Sync]
 
-- Khan Academy: https://www.khanacademy.org/ [Online, Sync]
+
 
 
 ## Contributors
 
 - Norberto Herz: http://norbertoherz.com
 - Ignacio Puig: https://twitter.com/chonapuch
+- Fede Marinic: https://github.com/fedemarinic
