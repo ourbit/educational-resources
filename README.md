@@ -45,7 +45,7 @@ If you want to contribute, you might want to:
 
 - CourseIT: https://courseit.com.ar/  [Offline, Sync]
 
-- Ada: https://ada.com.ar/  [Offline, Sync]
+- <img src="./img/warning.png" width="20"> Ada: https://ada.com.ar/  [Offline, Sync] <img src="./img/warning.png" width="20">This bootcamp has been denounced. Please [read this](./about-ada.md) for further information.
 
 
 
